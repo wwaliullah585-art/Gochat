@@ -1,0 +1,6 @@
+{
+  "name": "GoChat",
+  "description": "A high-performance chatting application styled on modern super-chat messengers, featuring instant local storage persistence and an advanced, context-aware Gemini AI chatbot assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
